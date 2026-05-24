@@ -1,9 +1,9 @@
 1. 【开源声明】本软件为免费开源项目，仅供个人学习与技术研究，严禁用于任何商业用途。
 
 2. 【获取源码】
-   • GitHub地址：https://github.com/tayieTY/tiktok_report_tool 
-   • 作者邮箱：3031439300@qq.com or tayie3257@gmail.com
-   (如无法访问GitHub，请通过邮件联系作者获取源码)
+• GitHub地址：https://github.com/tayieTY/tiktok_report_tool 
+• 作者邮箱：3031439300@qq.com or tayie3257@gmail.com
+(如无法访问GitHub，请通过邮件联系作者获取源码)
 
 3. 【使用须知】
    • 提前下载Google Chrome浏览器，登录个人抖音账号网页版。
