@@ -5,7 +5,7 @@ import os
 import sys
 
 # ---------------------------------------------------------------- 屏幕环境
-# 旧版基于图像识别，依赖固定屏幕环境；打包后仍需保持此要求
+# 图像识别依赖固定屏幕环境；打包后仍需保持此要求
 SCREEN_WIDTH = 1920
 SCREEN_HEIGHT = 1080
 SCREEN_SCALE = "100%"
@@ -109,4 +109,3 @@ USER_IMAGE_REPORT_BUTTON = "report_button_2.png"
 USER_IMAGE_MAIN_REASON = "nr.png"
 USER_IMAGE_INPUT = "click_put_in_2.png"
 USER_IMAGE_CONFIRM = "confirm_2.png"
-

@@ -13,7 +13,7 @@ from pyautogui.core.controller import TaskController
 
 def main() -> None:
     print("=" * 70)
-    print("      抖音自动化举报综合工具箱 (v1.1 CLI)")
+    print("      抖音自动化举报综合工具箱 (v4.0 CLI版)")
     print("=" * 70)
     path_input = input("Excel 绝对路径 (回车默认 D:\\抖音举报.xlsx): ").strip()
     excel_path = path_input.strip('"\'') if path_input else config.DEFAULT_EXCEL_PATH
@@ -39,4 +39,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

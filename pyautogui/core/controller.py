@@ -1,7 +1,4 @@
-"""统一任务控制：暂停 / 停止 / 极速模式。
-
-替代旧版“猴子补丁 time.sleep”的做法，UI 与业务通过同一个对象协作。
-"""
+"""统一任务控制：暂停 / 停止 / 极速模式，UI 与业务通过同一个对象协作。"""
 from __future__ import annotations
 
 import threading
@@ -64,4 +61,3 @@ class TaskController:
         if 4 < seconds < 5:
             return max(0.5, seconds - 3)
         return seconds
-
